@@ -1,2 +1,3 @@
 this is another file
+we are adding some code in feature2
 this is new change i doing in github remote directly
